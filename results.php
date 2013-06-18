@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Login </title>
+<title>Results</title>
 </head>
 <body>
 <form method="post" action="loginscript.php">
